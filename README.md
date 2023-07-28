@@ -75,6 +75,7 @@ CREATE database movies_app;
   <<<< CONNECTING >>>>
   <br />&emsp;&emsp;&emsp;&emsp; 6. connect to db: <br />
 </h4>
+    
 ``` 
 \c "db" 
 ```
